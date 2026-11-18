@@ -1,0 +1,6 @@
+{
+  "name": "OutlineDesk",
+  "description": "Windows-style PDF bookmark and outline editor with live page preview, Y-coordinate targeting, auto heading extraction, and bulk outline tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
